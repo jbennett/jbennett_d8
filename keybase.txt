@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/jbennett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jbennett.me
+  * I am jbennett (https://keybase.io/jbennett) on keybase.
+  * I have a public key with fingerprint D348 CC45 ABAD D4FA 656D  65CC 5D35 198B 67D3 3F55
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d348cc45abadd4fa656d65cc5d35198b67d33f55",
+            "host": "keybase.io",
+            "key_id": "5d35198b67d33f55",
+            "kid": "0101fd0ea9700b08719b2980a9f2c5c47fd53bcbb7647c0fb074c2e6cbcc27a830200a",
+            "uid": "c64b1cd0ee91e3416fff815c453c2200",
+            "username": "jbennett"
+        },
+        "revoke": {
+            "sig_ids": [
+                "9612f76a0ffeea941476ffc822f98d5a0a229a117d6725f996eae715f57a00b60f"
+            ]
+        },
+        "service": {
+            "hostname": "jbennett.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1422458395,
+    "expire_in": 157680000,
+    "prev": "62aaf6eb08171fce77961f4d71b208f2518072e8fad64ef93cba7d181145dcbf",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMJgAnicbZJdaBVHFMfvjVrNxViD2AYvSWBoQtGrzszuzOxeUUrb0OahHxQ/iEbT
++Uy2sbv37t1E02ipD4FaGiqmpWgoVcEqEUHFgGhQI6VoWxusirRV8iCiD/pgP7WC
+OBval9J5Gc45//M7HzNf10zL5LKqZeGBExdOVWe/Gx/uyaw8/zjfD0Sk+kCxH3Tr
+qcsEYaeOS3EQJqAIlON6UrqEC66UazglVFEiJVEOQb4nKFOOYwgBBdAVVdIMixG8
+opcEkfVZoyNQ1vs/+u6pAEQQGQU19xmEAnoM+QL7HuS+wZJIlxlFHCGFYNRlEhoB
+mSuxplJIiRn3HIgh5BbXM4WT1BVIWp72kXZcRI0xHrIc4khslamwouOQv6ut+h2h
+w1AnCdhaALHujbp1uoFK0GmbroDiOuBThA2jHBqjbYsucpklSg9j43uKcMgx9jlC
+TFGGifF9qrlmiBjCuB2HQgPWW7at2BvIKXi6pf9UX2KtAijFURLJaKMNdCVJqZj2
+lPSVUuEmLTr+QXSIIFT2hWxCr44rQRSCIrJKmQQpE7kYu8RzfFIAenMpiHVHkCoI
+ox60Jy2jey2SYs4N1XbhiCEjNWN2VOMqhgSGnsEEeZBh7RmuqKuN70jBmUIeQi5R
+UhiQDlUOI1Cktk3eaZF2bSFPemINtp472z49k81lnppRlf6xTK567r8/79UrszKf
+bF9Rg78ZPvjo9cH28TXH4POTQ3/ubppZ3HZI6Q+Gnh5eiKsah2YGGwt35mWy+dU/
+0bGXbtS3Lu2uP3962sMfVj2cc335jN8WfRhdea/l5q6rtwfuvfB+/+6J1xqX1rWd
+uX/kxovLs3v3Xzuar4wenmhds722vm1b88iv448u1Y3saFnw7eW/nmk6/GDZvrGq
+5ItN4vIvA3TP4jfKOz+aezxX8/nm09O9i+Vbp5obnh1snmwYidpb1968uz/X9FZ5
+dFe1WIQ37Dz45eNP20Yv9S27G8+e/0fXV6Kc/P3yhoaJj195M5z8fuzk77UDebNl
+MM93BC219577rK66f1/j200XHuw9vuLnORd/vD/+BCdnPa4=
+=BgrX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jbennett
+
+==================================================================
+
